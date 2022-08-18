@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 📫 How to reach me **unanimous276@gmail.com**
+- 📫 How to reach me **valeriimatviienkogmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

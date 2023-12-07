@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Valerii Matviienko</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React, Tailwind and TypeScript**
+- 🌱 I’m currently learning **React, Next.js, React Native and TypeScript**
 
-- 📫 How to reach me **valeriimatviienko@gmail.com**
+- 📫 You can reach me via email: **valeriimatviienko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

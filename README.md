@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Valerii</h1>
 <h3 align="center">A fullstack developer from Ukraine</h3>
 
-- 🌱 I’m currently working with like **Nest.js, TypeScript, Azure Services**
+- 🌱 I’m currently working with **Nest.js, TypeScript, Azure Services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

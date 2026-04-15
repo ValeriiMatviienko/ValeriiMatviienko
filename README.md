@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-- 🔭 I'm currently working on **Working with Nest.js, Next.js, TypeScript and Azure Services**
+- 🔭 I'm currently working on **Working with Nest.js, Next.js and Azure Services**
 
 - 🌱 I'm currently learning **Azure AI Search**
 
@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ValeriiMatviienko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ValeriiMatviienko" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/valeriimatvienko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriimatvienko" height="30" width="40" /></a>
-<a href="https://instagram.com/valerii_matviienko" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerii_matviienko" height="30" width="40" /></a>
+<a href="https://github.com/ValeriiMatviienko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ValeriiMatviienko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valeriimatvienko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriimatvienko" height="30" width="40" /></a>
+<a href="https://instagram.com/valerii_matviienko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerii_matviienko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

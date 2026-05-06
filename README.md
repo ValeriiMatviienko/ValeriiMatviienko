@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-- 🔭 I'm currently working on **Working with Nest.js, Next.js and Azure Services**
+- 🔭 I'm currently working on **Working with Nest.js, Next.js, TypeScript and Azure Services**
 
 - 🌱 I'm currently learning **Azure AI Search**
 
